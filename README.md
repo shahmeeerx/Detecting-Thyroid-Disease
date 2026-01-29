@@ -8,7 +8,7 @@ Thyroid disorders are prevalent endocrine conditions that often go undiagnosed d
 By utilizing **MATLAB’s Neural Network Toolbox**, the model identifies complex, non-linear relationships between 11 medically significant attributes—such as age, gender, medication usage, and hormonal indicators—to provide an accurate binary diagnosis.
 
 
-## 🛠️ Technical Specifications
+## Technical Specifications
 * **Platform:** MATLAB R2019b.
 * **Toolbox:** Neural Network Toolbox via the `nnstart` (Pattern Recognition) App.
 * **Architecture:** Multilayer Perceptron (MLP).
